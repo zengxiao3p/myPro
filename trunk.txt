@@ -1,1 +1,2 @@
 this is in trunk;
+i  am trunk, and i want to change the trunk;
